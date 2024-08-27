@@ -1,4 +1,4 @@
- <strong>NIGGA</strong> 👋
+Olá meu nome é <strong>Gustavo Felizardo</strong> 👋
 
 <!--
 **ChokitoArrepiado/ChokitoArrepiado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
