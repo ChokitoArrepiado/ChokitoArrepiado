@@ -1,4 +1,4 @@
-## NIGGA 👋
+## <storng>NIGGA</strong> 👋
 
 <!--
 **ChokitoArrepiado/ChokitoArrepiado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
